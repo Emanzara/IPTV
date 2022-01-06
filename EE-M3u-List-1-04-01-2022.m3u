@@ -1,0 +1,550 @@
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="PL: iTVN EXTRA HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/tvn_international_pl.png" group-title="POLISH",PL: iTVN EXTRA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/66448
+#EXTINF:-1 tvg-id="tvN.kr" tvg-name="PL: TVN 7 HD" tvg-logo="http://glmtv.pw/logo/prestige/Chile/tvn-cl.png" group-title="POLISH",PL: TVN 7 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/66446
+#EXTINF:-1 tvg-id="tvN.kr" tvg-name="PL: TVN 24 HD" tvg-logo="http://epg4you.com/logos/tvn24.png" group-title="POLISH",PL: TVN 24 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15164
+#EXTINF:-1 tvg-id="tvN.kr" tvg-name="PL: TVN TURBO" tvg-logo="http://epg4you.com/logos/tvnturbo.png" group-title="POLISH",PL: TVN TURBO
+http://qqtv.nl:8080/Mike1234/Mike1234/15162
+#EXTINF:-1 tvg-id="TVNStyle.pl" tvg-name="PL: TVN STYLE HD" tvg-logo="http://epg4you.com/logos/tvnstyle.png" group-title="POLISH",PL: TVN STYLE HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15163
+#EXTINF:-1 tvg-id="Xite.nl" tvg-name="PL: iTVN HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/tvn_international_pl.png" group-title="POLISH",PL: iTVN HD
+http://qqtv.nl:8080/Mike1234/Mike1234/66447
+#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="PL: TVP HD" tvg-logo="http://epg4you.com/logos/axnhd.png" group-title="POLISH",PL: TVP HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15224
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="PL: TVP INFO" tvg-logo="http://glmtv.pw/logo/prestige/Poland/tvp_info.png" group-title="POLISH",PL: TVP INFO
+http://qqtv.nl:8080/Mike1234/Mike1234/148544
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="PL: TVP 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/tvp1.png" group-title="POLISH",PL: TVP 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/88768
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="PL: TVP 2 HD" tvg-logo="http://epg4you.com/logos/tvp1.png" group-title="POLISH",PL: TVP 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15157
+#EXTINF:-1 tvg-id="TVP3.pl" tvg-name="PL: TVP 3 HD" tvg-logo="http://epg4you.com/logos/tvp2.png" group-title="POLISH",PL: TVP 3 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15156
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="PL: TVP POLONIA" tvg-logo="http://glmtv.pw/logo/prestige/Poland/tvp_polonia.png" group-title="POLISH",PL: TVP POLONIA
+http://qqtv.nl:8080/Mike1234/Mike1234/310821
+#EXTINF:-1 tvg-id="KontraChannel.gr" tvg-name="PL: TRAVEL CHANNEL" tvg-logo="http://glmtv.pw/logo/prestige/Poland/travel_channel_us.png" group-title="POLISH",PL: TRAVEL CHANNEL
+http://qqtv.nl:8080/Mike1234/Mike1234/186917
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="PL: TVP ABC HD" tvg-logo="http://epg4you.com/logos/tvpinfo.png" group-title="POLISH",PL: TVP ABC HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15154
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="PL: TVP SERIAL" tvg-logo="http://epg4you.com/logos/tvpseriale.png" group-title="POLISH",PL: TVP SERIAL
+http://qqtv.nl:8080/Mike1234/Mike1234/15153
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="PL: TVP ROZRYWKA" tvg-logo="http://epg4you.com/logos/tvnstyle.png" group-title="POLISH",PL: TVP ROZRYWKA
+http://qqtv.nl:8080/Mike1234/Mike1234/15152
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL: POLSAT 1 HD" tvg-logo="http://epg4you.com/logos/polsat.png" group-title="POLISH",PL: POLSAT 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15177
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL: POLSAT 2 HD" tvg-logo="http://epg4you.com/logos/polsat2.png" group-title="POLISH",PL: POLSAT 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15176
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="PL: POLSAT FILM" tvg-logo="http://epg4you.com/logos/polsatfilm.png" group-title="POLISH",PL: POLSAT FILM
+http://qqtv.nl:8080/Mike1234/Mike1234/15175
+#EXTINF:-1 tvg-id="PolsatCafe.pl" tvg-name="PL: POLSAT CAFE HD" tvg-logo="http://epg4you.com/logos/polsatfoodnetwork.png" group-title="POLISH",PL: POLSAT CAFE HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15174
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="PL: POLSAT NEWS HD" tvg-logo="http://epg4you.com/logos/polsatnews.png" group-title="POLISH",PL: POLSAT NEWS HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15173
+#EXTINF:-1 tvg-id="TLC.pl" tvg-name="PL: TLC HD" tvg-logo="http://glmtv.pw/logo/prestige/Brazil/tlc_br.png" group-title="POLISH",PL: TLC HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15155
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="PL: FOKUS TV" tvg-logo="http://glmtv.pw/logo/prestige/Poland/fokus_tv_pl.png" group-title="POLISH",PL: FOKUS TV
+http://qqtv.nl:8080/Mike1234/Mike1234/148543
+#EXTINF:-1 tvg-id="BBCBrit.pl" tvg-name="PL: BBC BRIT HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/bbc_brit_uk.png" group-title="POLISH",PL: BBC BRIT HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15220
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="PL: CANAL+ SPORT 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_sport2.png" group-title="POLISH",PL: CANAL+ SPORT 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15219
+#EXTINF:-1 tvg-id="CanaldelaMusica.ar" tvg-name="PL: CANAL+ SERIALE HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_seriale.png" group-title="POLISH",PL: CANAL+ SERIALE HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15217
+#EXTINF:-1 tvg-id="CanalPlusFamily.pl" tvg-name="PL: CANAL+ FAMILY HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_family.png" group-title="POLISH",PL: CANAL+ FAMILY HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15216
+#EXTINF:-1 tvg-id="FoodNetwork.pl" tvg-name="PL: FOOD NETWORK HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/food_network_ca.png" group-title="POLISH",PL: FOOD NETWORK HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15201
+#EXTINF:-1 tvg-id="Sundance.ro" tvg-name="PL: SUNDANCE HD" tvg-logo="http://epg4you.com/logos/canalplusdiscoveryhd-lichoridas.png" group-title="POLISH",PL: SUNDANCE HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15214
+#EXTINF:-1 tvg-id="CanalPlusSport 2.pl" tvg-name="PL: CANAL+ SPORT 3 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canal-plus-sport-3-polska-pl.png" group-title="POLISH",PL: CANAL+ SPORT 3 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15213
+#EXTINF:-1 tvg-id="CanaldelaMusica.ar" tvg-name="PL: CANAL+ FILM HD" tvg-logo="http://epg4you.com/logos/canalplusfilm-lichoridas.png" group-title="POLISH",PL: CANAL+ FILM HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15210
+#EXTINF:-1 tvg-id="HBO.pl" tvg-name="PL: HBO 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_ca_1.png" group-title="POLISH",PL: HBO 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15188
+#EXTINF:-1 tvg-id="HBO2.pl" tvg-name="PL: HBO 2 HD" tvg-logo="http://epg4you.com/logos/hbo2-deswephosp.png" group-title="POLISH",PL: HBO 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15187
+#EXTINF:-1 tvg-id="Cinemax.pl" tvg-name="PL: CINEMAX 1" tvg-logo="http://epg4you.com/logos/cinemax2.png" group-title="POLISH",PL: CINEMAX 1
+http://qqtv.nl:8080/Mike1234/Mike1234/15202
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-name="PL: CINEMAX 2 HD" tvg-logo="http://epg4you.com/logos/cinemaxhd.png" group-title="POLISH",PL: CINEMAX 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15203
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="PL: TVN FABULA HD" tvg-logo="http://38.143.137.20/logo/prestige/Poland/tvn_fabula_pl.png" group-title="POLISH",PL: TVN FABULA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15208
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL: POLSAT PLAY HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/polsat_super.png" group-title="POLISH",PL: POLSAT PLAY HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15223
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="PL: ESKA TV " tvg-logo="http://glmtv.pw/logo/prestige/Poland/eska_tv_pl.png" group-title="POLISH",PL: ESKA TV 
+http://qqtv.nl:8080/Mike1234/Mike1234/15221
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="PL: AXN BLACK" tvg-logo="http://epg4you.com/logos/nickelodeon.png" group-title="POLISH",PL: AXN BLACK
+http://qqtv.nl:8080/Mike1234/Mike1234/15180
+#EXTINF:-1 tvg-id="FilmBoxAction.pl" tvg-name="PL: FILM BOX ACTION HD" tvg-logo="http://epg4you.com/logos/nickjr.png" group-title="POLISH",PL: FILM BOX ACTION HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15181
+#EXTINF:-1 tvg-id="Mexicanal.us" tvg-name="PL: CANAL+ HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl.png" group-title="POLISH",PL: CANAL+ HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15206
+#EXTINF:-1 tvg-id="DiscoveryLife.pl" tvg-name="PL: DISCOVERY LIFE HD" tvg-logo="http://epg4you.com/logos/comedycentralfamily.png" group-title="POLISH",PL: DISCOVERY LIFE HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15204
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="PL: FILM BOX FAMILY HD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="POLISH",PL: FILM BOX FAMILY HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15182
+#EXTINF:-1 tvg-id="DiscoveryScience.pl" tvg-name="PL: DISCOVERY SCIENCE HD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="POLISH",PL: DISCOVERY SCIENCE HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15183
+#EXTINF:-1 tvg-id="KinoPolska.pl" tvg-name="PL: KINO POLSKA" tvg-logo="http://epg4you.com/logos/eurosport.png" group-title="POLISH",PL: KINO POLSKA
+http://qqtv.nl:8080/Mike1234/Mike1234/15197
+#EXTINF:-1 tvg-id="nSport.pl" tvg-name="PL: NSPORT PL" tvg-logo="https://4.bp.blogspot.com/-ZxOCQeX81Wc/WUZSg1NIErI/AAAAAAAAGzs/ltyCZuballsKKJiG7iLsCHt00cr9X9AGgCLcBGAs/s1600/nsport.png" group-title="POLISH",PL: NSPORT PL
+http://qqtv.nl:8080/Mike1234/Mike1234/15228
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="PL: TVP SPORT HD" tvg-logo="http://epg4you.com/logos/tvpsport.png" group-title="POLISH",PL: TVP SPORT HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15158
+#EXTINF:-1 tvg-id="Eurosport2.pl" tvg-name="PL: EUROSPORT 2" tvg-logo="http://epg4you.com/logos/eurosport2.png" group-title="POLISH",PL: EUROSPORT 2
+http://qqtv.nl:8080/Mike1234/Mike1234/15196
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="PL: CANAL+ SPORT 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_sport.png" group-title="POLISH",PL: CANAL+ SPORT 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15207
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-name="PL: POLSAT SPORT HD" tvg-logo="http://epg4you.com/logos/polsatsport.png" group-title="POLISH",PL: POLSAT SPORT HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15170
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-name="PL: POLSAT SPORT EXTRA HD" tvg-logo="http://epg4you.com/logos/polsatsportextrahd.png" group-title="POLISH",PL: POLSAT SPORT EXTRA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15169
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="PL: ELEVEN SPORTS 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-1-portugal-uk-pt.png" group-title="POLISH",PL: ELEVEN SPORTS 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15198
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="PL: ELEVEN SPORTS 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-2-portugal-uk-pt.png" group-title="POLISH",PL: ELEVEN SPORTS 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15200
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="PL: ELEVEN SPORTS 3 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-3-portugal-uk-pt.png" group-title="POLISH",PL: ELEVEN SPORTS 3 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15199
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="PL: ELEVEN SPORTS 4 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/eleven-sports-4-portugal-uk-pt.png" group-title="POLISH",PL: ELEVEN SPORTS 4 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/60949
+#EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-name="PL: POLSAT SPORT NEWS HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/polsat_sport_news.png" group-title="POLISH",PL: POLSAT SPORT NEWS HD
+http://qqtv.nl:8080/Mike1234/Mike1234/330387
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL: POLSAT SPORT PREMIUM 01 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/polsat_sport.png" group-title="POLISH",PL: POLSAT SPORT PREMIUM 01 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/330386
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="PL: POLSAT SPORT PREMIUM 02 HD" tvg-logo="http://glmtv.pw/logo/prestige/Poland/canalplus_pl_ale_kino.png" group-title="POLISH",PL: POLSAT SPORT PREMIUM 02 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15226
+#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="PL: AXN WHITE HD" tvg-logo="http://epg4you.com/logos/axnwhite.png" group-title="POLISH",PL: AXN WHITE HD
+http://qqtv.nl:8080/Mike1234/Mike1234/15222
+#EXTINF:-1 tvg-id="CroatianMusicChannel.hr" tvg-name="CRO: Croatian Music Channel " tvg-logo="http://glmtv.pw/logo/prestige/Croatia/cmc_tv_hr.png" group-title="CROATIAN",CRO: Croatian Music Channel 
+http://qqtv.nl:8080/Mike1234/Mike1234/14423
+#EXTINF:-1 tvg-id="CinestarFantasy.hr" tvg-name="CRO: CINESTAR FANTASY HD" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/cinestar-tv-fantasy-hr.png" group-title="CROATIAN",CRO: CINESTAR FANTASY HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14422
+#EXTINF:-1 tvg-id="DomaTv.hr" tvg-name="CRO: DOMA TV" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/doma_tv_hr.png" group-title="CROATIAN",CRO: DOMA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14450
+#EXTINF:-1 tvg-id="Htv1.hr" tvg-name="CRO: HRT 1" tvg-logo="http://epg4you.com/logos/hrttv1.png" group-title="CROATIAN",CRO: HRT 1
+http://qqtv.nl:8080/Mike1234/Mike1234/14455
+#EXTINF:-1 tvg-id="Htv2.hr" tvg-name="CRO: HRT 2" tvg-logo="http://epg4you.com/logos/hrttv2.png" group-title="CROATIAN",CRO: HRT 2
+http://qqtv.nl:8080/Mike1234/Mike1234/14454
+#EXTINF:-1 tvg-id="Htv3.hr" tvg-name="CRO: HRT 3" tvg-logo="http://epg4you.com/logos/hrttv3.png" group-title="CROATIAN",CRO: HRT 3
+http://qqtv.nl:8080/Mike1234/Mike1234/14453
+#EXTINF:-1 tvg-id="Htv4.hr" tvg-name="CRO: HRT 4" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/hrt-4-hr.png" group-title="CROATIAN",CRO: HRT 4
+http://qqtv.nl:8080/Mike1234/Mike1234/14452
+#EXTINF:-1 tvg-id="HTVInt.hr" tvg-name="CRO: HRT 5" tvg-logo="http://epg4you.com/logos/hrttv1.png" group-title="CROATIAN",CRO: HRT 5
+http://qqtv.nl:8080/Mike1234/Mike1234/14449
+#EXTINF:-1 tvg-id="CinestarPremiere1.hr" tvg-name="CRO: CINESTAR PREMIER 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/cinestar-tv-premiere-1-hr.png" group-title="CROATIAN",CRO: CINESTAR PREMIER 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14437
+#EXTINF:-1 tvg-id="Jugoton.hr" tvg-name="CRO: JUGOTON TV" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/jugoton_tv_hr.png" group-title="CROATIAN",CRO: JUGOTON TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14420
+#EXTINF:-1 tvg-id="CinestarPremiere2.hr" tvg-name="CRO: CINESTAR PREMIER 2 HD" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/cinestar-tv-premiere-2-hr.png" group-title="CROATIAN",CRO: CINESTAR PREMIER 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14436
+#EXTINF:-1 tvg-id="LaudatoTV.hr" tvg-name="CRO: LAUDATO TV" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/laudato-tv-hr.png" group-title="CROATIAN",CRO: LAUDATO TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14425
+#EXTINF:-1 tvg-id="N1.hr" tvg-name="CRO: N1" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/n1_rs.png" group-title="CROATIAN",CRO: N1
+http://qqtv.nl:8080/Mike1234/Mike1234/14439
+#EXTINF:-1 tvg-id="Hntv.hr" tvg-name="CRO: HN TV" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/hntv_hr.png" group-title="CROATIAN",CRO: HN TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14421
+#EXTINF:-1 tvg-id="NovaTv.hr" tvg-name="CRO: NOVA TV HD" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-Nova_TV.png" group-title="CROATIAN",CRO: NOVA TV HD
+http://qqtv.nl:8080/Mike1234/Mike1234/53233
+#EXTINF:-1 tvg-id="Hntv.hr" tvg-name="CRO: HRT INTERNATIONAL HD" tvg-logo="http://38.143.137.20/logo/prestige/Croatia/hrt-international-hr.png" group-title="CROATIAN",CRO: HRT INTERNATIONAL HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14451
+#EXTINF:-1 tvg-id="OsjeckaTv.hr" tvg-name="CRO: OSJECKA TV" tvg-logo="https://fastly.4sqi.net/img/general/200x200/28718544_9-gkee1IYers7q24qxvHOIvegA4RKtheQ1OPQwtstVA.jpg" group-title="CROATIAN",CRO: OSJECKA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14430
+#EXTINF:-1 tvg-id="AXN.hr" tvg-name="CRO: AXN ADRIA" tvg-logo="http://glmtv.pw/logo/prestige/Romania/axn_global.png" group-title="CROATIAN",CRO: AXN ADRIA
+http://qqtv.nl:8080/Mike1234/Mike1234/14424
+#EXTINF:-1 tvg-id="Rtl.hr" tvg-name="CRO: RTL 1 HD" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-RTL_Televizija.png" group-title="CROATIAN",CRO: RTL 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14446
+#EXTINF:-1 tvg-id="Rtl2.hr" tvg-name="CRO: RTL 2 HD" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-RTL_Televizija.png" group-title="CROATIAN",CRO: RTL 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14445
+#EXTINF:-1 tvg-id="RtlCrime.hr" tvg-name="CRO: RTL CRIME HD" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-RTL_Televizija.png" group-title="CROATIAN",CRO: RTL CRIME HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14442
+#EXTINF:-1 tvg-id="RtlKockica.hr" tvg-name="CRO: RTL KOCKICA HD" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-RTL_Televizija.png" group-title="CROATIAN",CRO: RTL KOCKICA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14440
+#EXTINF:-1 tvg-id="RtlLiving.hr" tvg-name="CRO: RTL LIVING HD" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-RTL_Televizija.png" group-title="CROATIAN",CRO: RTL LIVING HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14443
+#EXTINF:-1 tvg-id="RtlPassion.hr" tvg-name="CRO: RTL PASSION HD" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-RTL_Televizija.png" group-title="CROATIAN",CRO: RTL PASSION HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14441
+#EXTINF:-1 tvg-id="Sbtv.hr" tvg-name="CRO: SB TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/200px-SBTV_Logo.svg.png" group-title="CROATIAN",CRO: SB TV HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14429
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="RO: ROMANIA TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/srce.png" group-title="CROATIAN",RO: ROMANIA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14427
+#EXTINF:-1 tvg-id="PoljoprivrednaTV.hr" tvg-name="CRO: Poljoprivredna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Channel_5_logo_2011.svg" group-title="CROATIAN",CRO: Poljoprivredna TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14447
+#EXTINF:-1 tvg-id="" tvg-name="CRO: TV BANOVINA HD" tvg-logo="https://static.radio.it/images/broadcasts/16/95/5225/c175.png" group-title="CROATIAN",CRO: TV BANOVINA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14428
+#EXTINF:-1 tvg-id="ViasatHistory.hr" tvg-name="CRO: VIASAT HISTORY" tvg-logo="http://tvistra.hr/wp-content/uploads/2018/08/logo21.jpg" group-title="CROATIAN",CRO: VIASAT HISTORY
+http://qqtv.nl:8080/Mike1234/Mike1234/14435
+#EXTINF:-1 tvg-id="" tvg-name="CRO: TV4R KARLOVAC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/2/22/TrendTV.jpg/200px-TrendTV.jpg" group-title="CROATIAN",CRO: TV4R KARLOVAC HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14433
+#EXTINF:-1 tvg-id="VinkovackaTv.hr" tvg-name="CRO: VINKOVACKA TV HD" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/rtl_living_hr.png" group-title="CROATIAN",CRO: VINKOVACKA TV HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14431
+#EXTINF:-1 tvg-id="" tvg-name="CRO: VTV TELEVIZIJA HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0018/7801/brand.gif" group-title="CROATIAN",CRO: VTV TELEVIZIJA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14434
+#EXTINF:-1 tvg-id="CinestarActionThriller.hr" tvg-name="CRO: CINESTAR ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/9/9e/Z1-tv_logo.png/200px-Z1-tv_logo.png" group-title="CROATIAN",CRO: CINESTAR ACTION HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14438
+#EXTINF:-1 tvg-id="ZdravaTv7.hr" tvg-name="CRO: ZDRAVA TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Zdrava_TV-7.jpg/revision/latest?cb=20111025170057" group-title="CROATIAN",CRO: ZDRAVA TV HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14426
+#EXTINF:-1 tvg-id="Z1.hr" tvg-name="CRO: Z1" tvg-logo="http://glmtv.pw/logo/prestige/Croatia/z1_hr.png" group-title="CROATIAN",CRO: Z1
+http://qqtv.nl:8080/Mike1234/Mike1234/322476
+#EXTINF:-1 tvg-id="1Plus1.ua" tvg-name="UKR: 1+1" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA5AmoZ3WRPa6Pg0MjwZOjnuQctqg38vn3qLA=s48-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: 1+1
+http://qqtv.nl:8080/Mike1234/Mike1234/68481
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="UKR: MEGA" tvg-logo="http://glmtv.pw/logo/prestige/Ukraine/mega-ua.png" group-title="UKRANE-//-RUSSIAN",UKR: MEGA
+http://qqtv.nl:8080/Mike1234/Mike1234/68476
+#EXTINF:-1 tvg-id="" tvg-name="UKR: UA TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCrWjN6KpvAj5q1ADEuVhhsaGGpF0x1Yow8Ug=s48-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: UA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/68480
+#EXTINF:-1 tvg-id="" tvg-name="UKR: 24 CHANNEL" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAq0CUhitfhDOywg5vw17KPD9C8KyrFpz8XyQ=s48-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: 24 CHANNEL
+http://qqtv.nl:8080/Mike1234/Mike1234/68478
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UKR: SPORT 1 HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBeloBeO8lYUX3BkHkgrMYmXmh5rrug1pr5EA=s288-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: SPORT 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/68482
+#EXTINF:-1 tvg-id="" tvg-name="UKR: PERVIY DELOVOY" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBeloBeO8lYUX3BkHkgrMYmXmh5rrug1pr5EA=s288-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: PERVIY DELOVOY
+http://qqtv.nl:8080/Mike1234/Mike1234/68842
+#EXTINF:-1 tvg-id="" tvg-name="UKR: MAXXI TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDG_u4WT1v9dU0gsgEmwYdaKUfXyRyU1wDySA=s288-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: MAXXI TV
+http://qqtv.nl:8080/Mike1234/Mike1234/69078
+#EXTINF:-1 tvg-id="" tvg-name="UKR: 2+2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBj4UxSVDcbUwpDYbg6fE4l1AMNq4GGpZ8ssA=s48-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: 2+2
+http://qqtv.nl:8080/Mike1234/Mike1234/68479
+#EXTINF:-1 tvg-id="" tvg-name="UKR: K2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBcQY7JnTJ5bXhBLU7rlDMDV5KJFkaT6euitg=s288-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: K2
+http://qqtv.nl:8080/Mike1234/Mike1234/68843
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UKR: SPORT 2 HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDbIa48ONOjW6prkId3SWPT7Oep-LhJVxkyHg=s288-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: SPORT 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/68475
+#EXTINF:-1 tvg-id="" tvg-name="UKR: STB" tvg-logo="http://ukrainetvradio.com/wp-content/uploads/2015/02/Watch-K1-Live-TV-from-Kiev.jpg" group-title="UKRANE-//-RUSSIAN",UKR: STB
+http://qqtv.nl:8080/Mike1234/Mike1234/68477
+#EXTINF:-1 tvg-id="" tvg-name="UKR: INTER" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCUWPrhl0k0_u3raRcpaj4EHgOLX9226Rpd=s288-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: INTER
+http://qqtv.nl:8080/Mike1234/Mike1234/68841
+#EXTINF:-1 tvg-id="" tvg-name="UKR: PLUS PLUS" tvg-logo="https://liveam.tv/assets/images/chnl/prm.png" group-title="UKRANE-//-RUSSIAN",UKR: PLUS PLUS
+http://qqtv.nl:8080/Mike1234/Mike1234/73851
+#EXTINF:-1 tvg-id="" tvg-name="UKR: 5 KANAL" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/t6i/t6i_large.png" group-title="UKRANE-//-RUSSIAN",UKR: 5 KANAL
+http://qqtv.nl:8080/Mike1234/Mike1234/73852
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UKR: FOOTBALL 1" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA625J5LfMNYNjEkvc2tQsztDbGr3wQ7LlzjA=s48-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: FOOTBALL 1
+http://qqtv.nl:8080/Mike1234/Mike1234/73854
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UKR: FOOTBALL 2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAr18ZLJN7_NjcNxi0pv8UbGdLd9am_6mN9RA=s48-mo-c-c0xffffffff-rj-k-no" group-title="UKRANE-//-RUSSIAN",UKR: FOOTBALL 2
+http://qqtv.nl:8080/Mike1234/Mike1234/73853
+#EXTINF:-1 tvg-id="" tvg-name="}}}}}}}}}}}}} RUSSIAN  {{{{{{{{{{{{" tvg-logo="" group-title="UKRANE-//-RUSSIAN",}}}}}}}}}}}}} RUSSIAN  {{{{{{{{{{{{
+http://qqtv.nl:8080/Mike1234/Mike1234/68483
+#EXTINF:-1 tvg-id="TV1000East.ru" tvg-name="RUS: TV1000" tvg-logo="" group-title="UKRANE-//-RUSSIAN",RUS: TV1000
+http://qqtv.nl:8080/Mike1234/Mike1234/54673
+#EXTINF:-1 tvg-id="TV1000ActionEast.ru" tvg-name="RUS: TV1000 ACTION" tvg-logo="" group-title="UKRANE-//-RUSSIAN",RUS: TV1000 ACTION
+http://qqtv.nl:8080/Mike1234/Mike1234/54674
+#EXTINF:-1 tvg-id="" tvg-name="RUS: TV1000 COMEDY HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/paramount_comedy_ru.png" group-title="UKRANE-//-RUSSIAN",RUS: TV1000 COMEDY HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54675
+#EXTINF:-1 tvg-id="" tvg-name="RUS: TV1000 MEGAHIT HD" tvg-logo="" group-title="UKRANE-//-RUSSIAN",RUS: TV1000 MEGAHIT HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54676
+#EXTINF:-1 tvg-id="TV1000East.ru" tvg-name="RUS: TV1000 PREMIUM HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/paramount_channel_us.png" group-title="UKRANE-//-RUSSIAN",RUS: TV1000 PREMIUM HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54677
+#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="RUS: ANIMAL PLANET HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/animal-planet-us.png" group-title="UKRANE-//-RUSSIAN",RUS: ANIMAL PLANET HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54598
+#EXTINF:-1 tvg-id="CBSReality.ru" tvg-name="RUS: MATCH IGRA HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/match_ru_igra.png" group-title="UKRANE-//-RUSSIAN",RUS: MATCH IGRA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54605
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH FUTBOL 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/match_ru_futbol_1.png" group-title="UKRANE-//-RUSSIAN",RUS: MATCH FUTBOL 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54617
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH FUTBOL 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/match_ru_futbol_2.png" group-title="UKRANE-//-RUSSIAN",RUS: MATCH FUTBOL 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54618
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="RUS: PARAMOUNT CHANNEL" tvg-logo="http://glmtv.pw/logo/prestige/Canada/paramount-network-us.png" group-title="UKRANE-//-RUSSIAN",RUS: PARAMOUNT CHANNEL
+http://qqtv.nl:8080/Mike1234/Mike1234/54643
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/match_ru_tv.png" group-title="UKRANE-//-RUSSIAN",RUS: MATCH HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54653
+#EXTINF:-1 tvg-id="" tvg-name="RUS: RUSSIA RTR (PLANETA)" tvg-logo="http://38.143.137.20/logo/prestige/Russia/rtr_planeta_ru.png" group-title="UKRANE-//-RUSSIAN",RUS: RUSSIA RTR (PLANETA)
+http://qqtv.nl:8080/Mike1234/Mike1234/54654
+#EXTINF:-1 tvg-id="" tvg-name="RUS: PARAMOUNT COMEDY HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/paramount_comedy_ru.png" group-title="UKRANE-//-RUSSIAN",RUS: PARAMOUNT COMEDY HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54660
+#EXTINF:-1 tvg-id="" tvg-name="RUS: TNT HD" tvg-logo="http://glmtv.pw/logo/prestige/Argentina/tnt_us.png" group-title="UKRANE-//-RUSSIAN",RUS: TNT HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54663
+#EXTINF:-1 tvg-id="" tvg-name="RUS: TLC HD" tvg-logo="http://glmtv.pw/logo/prestige/Brazil/tlc_br.png" group-title="UKRANE-//-RUSSIAN",RUS: TLC HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54668
+#EXTINF:-1 tvg-id="SonySciFi.ru" tvg-name="RUS: SONY SCI-FI" tvg-logo="http://38.143.137.20/logo/prestige/Russia/sony_scifi_ru.png" group-title="UKRANE-//-RUSSIAN",RUS: SONY SCI-FI
+http://qqtv.nl:8080/Mike1234/Mike1234/54679
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH! PREMIER HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/match-premier-ru.png" group-title="UKRANE-//-RUSSIAN",RUS: MATCH! PREMIER HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54680
+#EXTINF:-1 tvg-id="NatGeoWild.ru" tvg-name="RUS: NAT GEO WILD HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/national-geographic-wild-us.png" group-title="UKRANE-//-RUSSIAN",RUS: NAT GEO WILD HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54645
+#EXTINF:-1 tvg-id="ViasatExplore.ru" tvg-name="RUS: VIASAT EXPLORER" tvg-logo="http://glmtv.pw/logo/prestige/Romania/VIASAT_EXPLORER.png" group-title="UKRANE-//-RUSSIAN",RUS: VIASAT EXPLORER
+http://qqtv.nl:8080/Mike1234/Mike1234/54681
+#EXTINF:-1 tvg-id="ViasatHistory.ru" tvg-name="RUS: VIASAT HISTORY" tvg-logo="http://glmtv.pw/logo/prestige/Romania/VIASAT_HISTORY.png" group-title="UKRANE-//-RUSSIAN",RUS: VIASAT HISTORY
+http://qqtv.nl:8080/Mike1234/Mike1234/54682
+#EXTINF:-1 tvg-id="ViasatNature.ru" tvg-name="RUS: VIASAT NATURE" tvg-logo="http://glmtv.pw/logo/prestige/Romania/VIASAT_NATURE.png" group-title="UKRANE-//-RUSSIAN",RUS: VIASAT NATURE
+http://qqtv.nl:8080/Mike1234/Mike1234/54684
+#EXTINF:-1 tvg-id="" tvg-name="RUS: EURONEWS" tvg-logo="http://glmtv.pw/logo/prestige/Greece/euronews.png" group-title="UKRANE-//-RUSSIAN",RUS: EURONEWS
+http://qqtv.nl:8080/Mike1234/Mike1234/54685
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RUS: TV3" tvg-logo="http://38.143.137.20/logo/prestige/Russia/tv_3_ru.png" group-title="UKRANE-//-RUSSIAN",RUS: TV3
+http://qqtv.nl:8080/Mike1234/Mike1234/54658
+#EXTINF:-1 tvg-id="RTUS.ru" tvg-name="RUS: RBK HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/rbk_tv_ru.png" group-title="UKRANE-//-RUSSIAN",RUS: RBK HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54659
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH FIGHT" tvg-logo="http://38.143.137.20/logo/prestige/Russia/match_ru_boets.png" group-title="UKRANE-//-RUSSIAN",RUS: MATCH FIGHT
+http://qqtv.nl:8080/Mike1234/Mike1234/54646
+#EXTINF:-1 tvg-id="" tvg-name="RUS: IMPACT" tvg-logo="" group-title="UKRANE-//-RUSSIAN",RUS: IMPACT
+http://qqtv.nl:8080/Mike1234/Mike1234/54648
+#EXTINF:-1 tvg-id="SonyTurbo.ru" tvg-name="RUS: SOYUZ" tvg-logo="http://38.143.137.20/logo/prestige/Russia/soyuz_ru.png" group-title="UKRANE-//-RUSSIAN",RUS: SOYUZ
+http://qqtv.nl:8080/Mike1234/Mike1234/54656
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="RUS: RUSSIA 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/ru_tv_ru.png" group-title="UKRANE-//-RUSSIAN",RUS: RUSSIA 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54601
+#EXTINF:-1 tvg-id="" tvg-name="RUS: DISCOVERY HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/discovery-channel-east-us.png" group-title="UKRANE-//-RUSSIAN",RUS: DISCOVERY HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54612
+#EXTINF:-1 tvg-id="DiscoveryScience.ru" tvg-name="RUS: DISCOVERY SCIENCE" tvg-logo="http://38.143.137.20/logo/prestige/United-States/discovery-science-france-us-fr.png" group-title="UKRANE-//-RUSSIAN",RUS: DISCOVERY SCIENCE
+http://qqtv.nl:8080/Mike1234/Mike1234/54613
+#EXTINF:-1 tvg-id="" tvg-name="RUS: FOX HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/fox_global.png" group-title="UKRANE-//-RUSSIAN",RUS: FOX HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54614
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH FUTBOL 3 HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/match_ru_futbol_3.png" group-title="UKRANE-//-RUSSIAN",RUS: MATCH FUTBOL 3 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54619
+#EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="RUS: FOOD NETWORK" tvg-logo="http://glmtv.pw/logo/prestige/United-States/food_network_ca.png" group-title="UKRANE-//-RUSSIAN",RUS: FOOD NETWORK
+http://qqtv.nl:8080/Mike1234/Mike1234/54620
+#EXTINF:-1 tvg-id="BabyTV.rs" tvg-name="RUS: KINO PREMIERA HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/nastroy_kino_ru_kino_premyera.png" group-title="UKRANE-//-RUSSIAN",RUS: KINO PREMIERA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54599
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="RUS: ÐœATCH GAME" tvg-logo="http://38.143.137.20/logo/prestige/Russia/match_ru_boets.png" group-title="UKRANE-//-RUSSIAN",RUS: ÐœATCH GAME
+http://qqtv.nl:8080/Mike1234/Mike1234/54600
+#EXTINF:-1 tvg-id="" tvg-name="RUS: MATCH PLANET HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/match_ru_arena.png" group-title="UKRANE-//-RUSSIAN",RUS: MATCH PLANET HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54650
+#EXTINF:-1 tvg-id="TV1000 RusskojeKino.lv" tvg-name="RUS: TV1000 PYCCKOE KINO HD" tvg-logo="" group-title="UKRANE-//-RUSSIAN",RUS: TV1000 PYCCKOE KINO HD
+http://qqtv.nl:8080/Mike1234/Mike1234/54671
+#EXTINF:-1 tvg-id="" tvg-name="RUS: SHANSON TV" tvg-logo="http://38.143.137.20/logo/prestige/Russia/shanson_tv_ru.png" group-title="UKRANE-//-RUSSIAN",RUS: SHANSON TV
+http://qqtv.nl:8080/Mike1234/Mike1234/54670
+#EXTINF:-1 tvg-id="" tvg-name="RUS: NTV HD" tvg-logo="http://38.143.137.20/logo/prestige/Russia/nntv-ru.png" group-title="UKRANE-//-RUSSIAN",RUS: NTV HD
+http://qqtv.nl:8080/Mike1234/Mike1234/415343
+#EXTINF:-1 tvg-id="NovaSports1.gr" tvg-name="CZ: NOVA SPORTS 1 HD" tvg-logo="http://glmtv.pw/logo/prestige/Czechia/nova_cz_sport_1.png" group-title="CZECH -//- SLOVAKIA",CZ: NOVA SPORTS 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/53232
+#EXTINF:-1 tvg-id="FilmboxExtra.cz" tvg-name="CZ: FILMBOX EXTRA HD" tvg-logo="http://glmtv.pw/logo/prestige/Hungary/filmbox_extra_pl_hd.png" group-title="CZECH -//- SLOVAKIA",CZ: FILMBOX EXTRA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/18509
+#EXTINF:-1 tvg-id="Guatevision.gt" tvg-name="CZ: TESLAVISION HD" tvg-logo="http://glmtv.pw/logo/prestige/Romania/VIASAT_HISTORY.png" group-title="CZECH -//- SLOVAKIA",CZ: TESLAVISION HD
+http://qqtv.nl:8080/Mike1234/Mike1234/18513
+#EXTINF:-1 tvg-id="FilmboxFamily.cz" tvg-name="CZ: FILMBOX FAMILY" tvg-logo="http://glmtv.pw/logo/prestige/Hungary/FILMBOX_FAMILY.png" group-title="CZECH -//- SLOVAKIA",CZ: FILMBOX FAMILY
+http://qqtv.nl:8080/Mike1234/Mike1234/18508
+#EXTINF:-1 tvg-id="24kitchen.bg" tvg-name="BG: 24 KITCHEN HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/24_kitchen_us.png" group-title="BULGARIA -//- SLOVENIJA",BG: 24 KITCHEN HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14188
+#EXTINF:-1 tvg-id="" tvg-name="BG: BULGARIA 24 HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/bulgaria_24_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: BULGARIA 24 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14176
+#EXTINF:-1 tvg-id="Cinemax2.bg" tvg-name="BG: CINEMAX 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/cinema_plus_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: CINEMAX 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14171
+#EXTINF:-1 tvg-id="HobbyTV.cz" tvg-name="BG: HOBBY TV HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/hobby_tv_bg_hd.png" group-title="BULGARIA -//- SLOVENIJA",BG: HOBBY TV HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14169
+#EXTINF:-1 tvg-id="Max.no" tvg-name="BG: AXN TV" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/axn_global.png" group-title="BULGARIA -//- SLOVENIJA",BG: AXN TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14162
+#EXTINF:-1 tvg-id="RadioTheVoice.dk" tvg-name="BG: THE VOICE" tvg-logo="http://teleon.tv/images/logos/magic_tv_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: THE VOICE
+http://qqtv.nl:8080/Mike1234/Mike1234/14168
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BG: ALFA TV" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/alfa_tv_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: ALFA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14165
+#EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-name="BG: DIEMA FAMILY" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/diema_family.png" group-title="BULGARIA -//- SLOVENIJA",BG: DIEMA FAMILY
+http://qqtv.nl:8080/Mike1234/Mike1234/14164
+#EXTINF:-1 tvg-id="MAXSport3.bg" tvg-name="BG: MAX SPORT 3 HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/max-sport-3-bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: MAX SPORT 3 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14163
+#EXTINF:-1 tvg-id="CBSWMAZ.us" tvg-name="BG: ACTION PLUS HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/action_plus_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: ACTION PLUS HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14187
+#EXTINF:-1 tvg-id="BalkanikaMusicTv.hr" tvg-name="BG: BALKANIKA MUSIC TV" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/balkanika-music-tv-bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: BALKANIKA MUSIC TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14392
+#EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="BG: CINEMAX 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/btv_bg_cinema.png" group-title="BULGARIA -//- SLOVENIJA",BG: CINEMAX 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14196
+#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="BG: BTV ACTION" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/btv_bg_action.png" group-title="BULGARIA -//- SLOVENIJA",BG: BTV ACTION
+http://qqtv.nl:8080/Mike1234/Mike1234/14184
+#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="BG: BTV COMEDY" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/btv_bg_comedy.png" group-title="BULGARIA -//- SLOVENIJA",BG: BTV COMEDY
+http://qqtv.nl:8080/Mike1234/Mike1234/14182
+#EXTINF:-1 tvg-id="CityTV.bg" tvg-name="BG: CITY HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/city_tv_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: CITY HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14193
+#EXTINF:-1 tvg-id="bTVLady.bg" tvg-name="BG: FOX LIFE HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/fox-life-us.png" group-title="BULGARIA -//- SLOVENIJA",BG: FOX LIFE HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14185
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="BG: DESTINATIONS HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/destination_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: DESTINATIONS HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14191
+#EXTINF:-1 tvg-id="HBO.bg" tvg-name="BG: HBO HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/hbo-chile-us-cl.png" group-title="BULGARIA -//- SLOVENIJA",BG: HBO HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14172
+#EXTINF:-1 tvg-id="MAXSport4.bg" tvg-name="BG: MAX SPORT 4 HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/max-sport-4-bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: MAX SPORT 4 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14175
+#EXTINF:-1 tvg-id="bTVCinema.bg" tvg-name="BG: BTV CINEMA" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/btv_bg_cinema.png" group-title="BULGARIA -//- SLOVENIJA",BG: BTV CINEMA
+http://qqtv.nl:8080/Mike1234/Mike1234/14183
+#EXTINF:-1 tvg-id="" tvg-name="BG: FOX CRIME" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/fox_crime_global.png" group-title="BULGARIA -//- SLOVENIJA",BG: FOX CRIME
+http://qqtv.nl:8080/Mike1234/Mike1234/14190
+#EXTINF:-1 tvg-id="Cinemax.bg" tvg-name="BG: CINEMAX PLUS HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/cinema_plus_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: CINEMAX PLUS HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14186
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BG: BNT 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/bnt-1-bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: BNT 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14181
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BG: DIEMA SPORT2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/diema_sport_bg_2_hd.png" group-title="BULGARIA -//- SLOVENIJA",BG: DIEMA SPORT2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14178
+#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="BG: DIEMA SPORT 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/diema_sport_bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: DIEMA SPORT 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14179
+#EXTINF:-1 tvg-id="MAXSport1.bg" tvg-name="BG: MAX SPORT 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/max-sport-1-bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: MAX SPORT 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14189
+#EXTINF:-1 tvg-id="DiemaSport 2.bg" tvg-name="BG: MAX SPORT 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/max-sport-2-bg.png" group-title="BULGARIA -//- SLOVENIJA",BG: MAX SPORT 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14166
+#EXTINF:-1 tvg-id="" tvg-name="BG: FILMBOX EXTRA HD" tvg-logo="http://38.143.137.20/logo/prestige/Bulgaria/filmbox_extra_pl_hd.png" group-title="BULGARIA -//- SLOVENIJA",BG: FILMBOX EXTRA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14160
+#EXTINF:-1 tvg-id="" tvg-name="::::::: MACEDONIA :::::::::::" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",::::::: MACEDONIA :::::::::::
+http://qqtv.nl:8080/Mike1234/Mike1234/57419
+#EXTINF:-1 tvg-id="Lale.ua" tvg-name="MK: ALFA HD" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: ALFA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/19518
+#EXTINF:-1 tvg-id="Vesti24.mk" tvg-name="MK: 24 VESTI" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: 24 VESTI
+http://qqtv.nl:8080/Mike1234/Mike1234/19514
+#EXTINF:-1 tvg-id="" tvg-name="MK: HBO HD" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: HBO HD
+http://qqtv.nl:8080/Mike1234/Mike1234/19511
+#EXTINF:-1 tvg-id="Mikan.il" tvg-name="MK: KANAL 5" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: KANAL 5
+http://qqtv.nl:8080/Mike1234/Mike1234/19517
+#EXTINF:-1 tvg-id="" tvg-name="MK: KANAL VIZIJA PRILEP" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: KANAL VIZIJA PRILEP
+http://qqtv.nl:8080/Mike1234/Mike1234/19510
+#EXTINF:-1 tvg-id="MRT1.mk" tvg-name="MK: MRT 1 HD" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: MRT 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/19524
+#EXTINF:-1 tvg-id="MRT2.mk" tvg-name="MK: MRT 2" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: MRT 2
+http://qqtv.nl:8080/Mike1234/Mike1234/19523
+#EXTINF:-1 tvg-id="MRT3.mk" tvg-name="MK: MRT 3" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: MRT 3
+http://qqtv.nl:8080/Mike1234/Mike1234/19522
+#EXTINF:-1 tvg-id="" tvg-name="MK: MTM" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: MTM
+http://qqtv.nl:8080/Mike1234/Mike1234/19521
+#EXTINF:-1 tvg-id="NasaTV.ba" tvg-name="MK: NASA TV" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: NASA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/19509
+#EXTINF:-1 tvg-id="" tvg-name="MK: SHUTEL" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: SHUTEL
+http://qqtv.nl:8080/Mike1234/Mike1234/19512
+#EXTINF:-1 tvg-id="Sitel.mk" tvg-name="MK: SITEL 3" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: SITEL 3
+http://qqtv.nl:8080/Mike1234/Mike1234/19519
+#EXTINF:-1 tvg-id="Sitel.mk" tvg-name="MK: SITEL HD" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: SITEL HD
+http://qqtv.nl:8080/Mike1234/Mike1234/19520
+#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="MK: SKY FOLK" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: SKY FOLK
+http://qqtv.nl:8080/Mike1234/Mike1234/19507
+#EXTINF:-1 tvg-id="SonceTV.mk" tvg-name="MK: SONCE TV" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: SONCE TV
+http://qqtv.nl:8080/Mike1234/Mike1234/19508
+#EXTINF:-1 tvg-id="Sitel.mk" tvg-name="MK: TELMA HD" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: TELMA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/19516
+#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="MK: TERA TV" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",MK: TERA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/19515
+#EXTINF:-1 tvg-id="" tvg-name="::::::: ARMENIA :::::::::::" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",::::::: ARMENIA :::::::::::
+http://qqtv.nl:8080/Mike1234/Mike1234/57410
+#EXTINF:-1 tvg-id="ArmeniaTV.am" tvg-name="ARM: ARMENIA TV" tvg-logo="http://38.143.137.20/logo/prestige/Armenia/armenia_tv_am.png" group-title="ARMENIA -//- MACEDONIA",ARM: ARMENIA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/331411
+#EXTINF:-1 tvg-id="ParamountComedy.ru" tvg-name="ARM: 1 TV" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",ARM: 1 TV
+http://qqtv.nl:8080/Mike1234/Mike1234/331412
+#EXTINF:-1 tvg-id="ShantTVLocalAM.am" tvg-name="ARM: SHANT TV HD" tvg-logo="http://38.143.137.20/logo/prestige/Armenia/shant_tv_am.png" group-title="ARMENIA -//- MACEDONIA",ARM: SHANT TV HD
+http://qqtv.nl:8080/Mike1234/Mike1234/331413
+#EXTINF:-1 tvg-id="" tvg-name="ARM: SURYOYO" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",ARM: SURYOYO
+http://qqtv.nl:8080/Mike1234/Mike1234/331414
+#EXTINF:-1 tvg-id="" tvg-name="ARM: KENTRON TV HD" tvg-logo="http://38.143.137.20/logo/prestige/Armenia/kentron_tv_am.png" group-title="ARMENIA -//- MACEDONIA",ARM: KENTRON TV HD
+http://qqtv.nl:8080/Mike1234/Mike1234/416295
+#EXTINF:-1 tvg-id="Armenia1.am" tvg-name="ARM: TV 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Armenia/armenia1.png" group-title="ARMENIA -//- MACEDONIA",ARM: TV 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/416296
+#EXTINF:-1 tvg-id="TV2.tr" tvg-name="ARM: TV 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Armenia/armenia1.png" group-title="ARMENIA -//- MACEDONIA",ARM: TV 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/416410
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="ARM: COMEDY HD" tvg-logo="http://38.143.137.20/logo/prestige/United-States/comedy_tv_us.png" group-title="ARMENIA -//- MACEDONIA",ARM: COMEDY HD
+http://qqtv.nl:8080/Mike1234/Mike1234/416411
+#EXTINF:-1 tvg-id="" tvg-name="ARM: PAN ARMENIAN HD" tvg-logo="" group-title="ARMENIA -//- MACEDONIA",ARM: PAN ARMENIAN HD
+http://qqtv.nl:8080/Mike1234/Mike1234/416412
+#EXTINF:-1 tvg-id="" tvg-name="BH: OBN" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBpIioaZ5pFvTQzZUmbE1jb1O_Y8tqRUV90iw=s288-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: OBN
+http://qqtv.nl:8080/Mike1234/Mike1234/14489
+#EXTINF:-1 tvg-id="TotalTV.in" tvg-name="BH: OTV VALENTINO" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBHQdYxmmXCocLNc7eK4EhE7rcbfEsyAw812A=s288-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: OTV VALENTINO
+http://qqtv.nl:8080/Mike1234/Mike1234/14464
+#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="BH: PINK" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBYMZDJqaGlfj9-oKgN8a8gkQqZDMQyDzYpLg=s288-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: PINK
+http://qqtv.nl:8080/Mike1234/Mike1234/14488
+#EXTINF:-1 tvg-id="" tvg-name="BH: POSAVINA TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBGDzKU34cWtXX46OXg301KdVhHbPpmSD33tg=s288-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: POSAVINA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14463
+#EXTINF:-1 tvg-id="RTRS.ba" tvg-name="BH: RTRS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBeSNcN9qtdV4BROLagHiKCqZIeffcFw3pi3g=s288-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: RTRS
+http://qqtv.nl:8080/Mike1234/Mike1234/14473
+#EXTINF:-1 tvg-id="" tvg-name="BH: SEVDAH TV" tvg-logo="https://yt3.ggpht.com/-pv6JezwDgOA/AAAAAAAAAAI/AAAAAAAACoY/N8Xs3SUozsM/s48-nd-c-c0xffffffff-rj-k-no/photo.jpg" group-title="BOSNIA -//- HERCEGOVINA",BH: SEVDAH TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14460
+#EXTINF:-1 tvg-id="" tvg-name="BH: TV 1" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBjKc-4huL15JA8T9QB7TH_viAnNL5IthVPTQ=s288-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: TV 1
+http://qqtv.nl:8080/Mike1234/Mike1234/14484
+#EXTINF:-1 tvg-id="" tvg-name="BH: TV 5 HD ISLAM" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAu4dbhiRviuG3vkPqKJe5hagRKo8PpZlkH_g=s288-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: TV 5 HD ISLAM
+http://qqtv.nl:8080/Mike1234/Mike1234/14458
+#EXTINF:-1 tvg-id="TVSarajevo.ba" tvg-name="BH: TV SARAJEVO" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCp38vl729daNI7POiw5PQbTkY27RFVxliLyg=s48-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: TV SARAJEVO
+http://qqtv.nl:8080/Mike1234/Mike1234/14479
+#EXTINF:-1 tvg-id="tvN.kr" tvg-name="BH: TV USK" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDjztx3saHfAlaVbIYMzsxC4X1_oW9kHIViuA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: TV USK
+http://qqtv.nl:8080/Mike1234/Mike1234/14467
+#EXTINF:-1 tvg-id="" tvg-name="BH: A1 BALKAN" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBYNlk2-xT18P0vGTlGfeO94ORtAPvi4YH56A=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: A1 BALKAN
+http://qqtv.nl:8080/Mike1234/Mike1234/14468
+#EXTINF:-1 tvg-id="SatTV.rs" tvg-name="BH: ATV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCQdcnjljid2rZ-qMhDUsHwlIZlgbGS2EMDpQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: ATV
+http://qqtv.nl:8080/Mike1234/Mike1234/14485
+#EXTINF:-1 tvg-id="" tvg-name="BH: TV 1 HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBjKc-4huL15JA8T9QB7TH_viAnNL5IthVPTQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: TV 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14490
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="BH: MUSIC" tvg-logo="https://yt3.ggpht.com/-ilYTIfh9CfA/AAAAAAAAAAI/AAAAAAAAAJ0/bLS6PQGuwVo/s48-nd-c-c0xffffffff-rj-k-no/photo.jpg" group-title="BOSNIA -//- HERCEGOVINA",BH: MUSIC
+http://qqtv.nl:8080/Mike1234/Mike1234/14474
+#EXTINF:-1 tvg-id="BN.ba" tvg-name="BH: BH" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAgKMYhnIdzJm4Y0fXE5iwRVMHkKgeJRX7YJw=s288-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: BH
+http://qqtv.nl:8080/Mike1234/Mike1234/14475
+#EXTINF:-1 tvg-id="" tvg-name="BH: BOSNA TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAgKMYhnIdzJm4Y0fXE5iwRVMHkKgeJRX7YJw=s288-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: BOSNA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14476
+#EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="BH: DUGA TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAEH1Nnmt1TJQ_A68wp4OrZknsfYGRyi3eGyg=s48-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: DUGA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14465
+#EXTINF:-1 tvg-id="" tvg-name="BH: FACE TV HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCorzaDms7l8_a72Y77NxrmDnjz7_JmgmgEKw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: FACE TV HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14487
+#EXTINF:-1 tvg-id="FederalnaTv.hr" tvg-name="BH: FEDERALNA TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAfAnGpPI-A7E9IFg_afzssVAmGGaqJg0pd4w=s48-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: FEDERALNA TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14486
+#EXTINF:-1 tvg-id="" tvg-name="BH: GLAS DRINE" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDUzL9RcWRvbGdlZfyQDvft5VerVPNgb7oz8g=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: GLAS DRINE
+http://qqtv.nl:8080/Mike1234/Mike1234/14462
+#EXTINF:-1 tvg-id="HayatFolk.ba" tvg-name="BH: HAYAT FOLK" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA3Eq7zHBjUe-1ub6vpgkMTUA78ceLNLgcoOg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: HAYAT FOLK
+http://qqtv.nl:8080/Mike1234/Mike1234/14480
+#EXTINF:-1 tvg-id="HayatMusic.ba" tvg-name="BH: HAYAT MUSIC" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA3Eq7zHBjUe-1ub6vpgkMTUA78ceLNLgcoOg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: HAYAT MUSIC
+http://qqtv.nl:8080/Mike1234/Mike1234/14481
+#EXTINF:-1 tvg-id="Alpha.cy" tvg-name="BH: HAYAT PLUS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA3Eq7zHBjUe-1ub6vpgkMTUA78ceLNLgcoOg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: HAYAT PLUS
+http://qqtv.nl:8080/Mike1234/Mike1234/14482
+#EXTINF:-1 tvg-id="ShoghakatTV.am" tvg-name="BH: HAYAT TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA3Eq7zHBjUe-1ub6vpgkMTUA78ceLNLgcoOg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: HAYAT TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14483
+#EXTINF:-1 tvg-id="" tvg-name="BH: HIT BRCKO" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBgEby-8CNSxgsPEAjGwQdwngLxRXGZabB-Jw=s48-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: HIT BRCKO
+http://qqtv.nl:8080/Mike1234/Mike1234/14478
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BH: MIR TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB_d75pXX6XJqgcPk8fsQCCId9PnKga3V7N=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: MIR TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14457
+#EXTINF:-1 tvg-id="MTVIgman.ba" tvg-name="BH: MTV IGMAN" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mA6YalILLKDXdezoFtIEDJ7itUDrWHHUICy5A=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: MTV IGMAN
+http://qqtv.nl:8080/Mike1234/Mike1234/14461
+#EXTINF:-1 tvg-id="TSN1.mt" tvg-name="BH: N1 TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBYMZDJqaGlfj9-oKgN8a8gkQqZDMQyDzYpLg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BOSNIA -//- HERCEGOVINA",BH: N1 TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14477
+#EXTINF:-1 tvg-id="Nova.rs" tvg-name="BH: NOVA RS" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBPoyOvaKXhsn7GCvZVvP9876QMUbPj6VeLKw=s48-mo-c-c0xffffffff-rj-k-no" group-title="BOSNIA -//- HERCEGOVINA",BH: NOVA RS
+http://qqtv.nl:8080/Mike1234/Mike1234/14472
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="BH: NOVI PAZAR" tvg-logo="http://qqtv.nl:8123/html/channel-logo/Novi%20Pazar.BH.jpg" group-title="BOSNIA -//- HERCEGOVINA",BH: NOVI PAZAR
+http://qqtv.nl:8080/Mike1234/Mike1234/14471
+#EXTINF:-1 tvg-id="Arts.au" tvg-name="SR: RTS 1" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB-BzmXDSZcMV8yTrX2VQ2K7uqV1bP3nU7ufA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: RTS 1
+http://qqtv.nl:8080/Mike1234/Mike1234/14417
+#EXTINF:-1 tvg-id="Arts.au" tvg-name="SR: RTS 2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB-BzmXDSZcMV8yTrX2VQ2K7uqV1bP3nU7ufA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: RTS 2
+http://qqtv.nl:8080/Mike1234/Mike1234/14416
+#EXTINF:-1 tvg-id="Arts.au" tvg-name="SR: RTS 3" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB-BzmXDSZcMV8yTrX2VQ2K7uqV1bP3nU7ufA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: RTS 3
+http://qqtv.nl:8080/Mike1234/Mike1234/14415
+#EXTINF:-1 tvg-id="" tvg-name="SR: NOVA S" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBKBNE6hr8DTXv8l-LSpiPlhrG94lKAYQTYkg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: NOVA S
+http://qqtv.nl:8080/Mike1234/Mike1234/14396
+#EXTINF:-1 tvg-id="" tvg-name="SR: N1 TV." tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBYMZDJqaGlfj9-oKgN8a8gkQqZDMQyDzYpLg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: N1 TV.
+http://qqtv.nl:8080/Mike1234/Mike1234/14398
+#EXTINF:-1 tvg-id="O2TV.rs" tvg-name="SR: O2.TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAz-URAvoPY5Uhl4tzDj-wAL7Sb-1y8cdedfw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: O2.TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14409
+#EXTINF:-1 tvg-id="SpreeTV.au" tvg-name="SR: PRVA HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCjZJ0qCcuY0qV-p0bOyUK0TPmTHlJeVmyCqg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: PRVA HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14407
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="SR: DM SAT" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBnOxZN3_L0JIPJlALVyUJWk8wiU2j-8fXcSA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: DM SAT
+http://qqtv.nl:8080/Mike1234/Mike1234/14395
+#EXTINF:-1 tvg-id="Grand2.rs" tvg-name="SR: GRAND 2 TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB4ftSov8ilqxAgWpNHkF-YrjuBJ28fCWKVgw=s48-mo-c-c0xffffffff-rj-k-no" group-title="SERBIAN -//- MONTENEGRO",SR: GRAND 2 TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14393
+#EXTINF:-1 tvg-id="Grand.rs" tvg-name="SR: GRAND TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBdMjzXyGrxTDdyTX1-Lq76Wo0CsMa4aFKYiQ=s48-mo-c-c0xffffffff-rj-k-no" group-title="SERBIAN -//- MONTENEGRO",SR: GRAND TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14394
+#EXTINF:-1 tvg-id="" tvg-name="SR: HAPPY TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB6e6uDysXLxvgTg3hn-bluPb_76GvHY3LL_Q=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: HAPPY TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14399
+#EXTINF:-1 tvg-id="PrvaKick.rs" tvg-name="SR: PRVA KICK" tvg-logo="data:image/jpeg;base64,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" group-title="SERBIAN -//- MONTENEGRO",SR: PRVA KICK
+http://qqtv.nl:8080/Mike1234/Mike1234/14404
+#EXTINF:-1 tvg-id="PrvaMax.rs" tvg-name="SR: PRVA MAX" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBHtDZnoqA1O3lB2X7l1lnSE5rJgW6-4Bgzxw=s288-mo-c-c0xffffffff-rj-k-no" group-title="SERBIAN -//- MONTENEGRO",SR: PRVA MAX
+http://qqtv.nl:8080/Mike1234/Mike1234/14405
+#EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="SR: PRVA PLUS" tvg-logo="data:image/png;base64,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" group-title="SERBIAN -//- MONTENEGRO",SR: PRVA PLUS
+http://qqtv.nl:8080/Mike1234/Mike1234/14406
+#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="SR: PRVA WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_4mTchd0ufty48muNllrBFr9HD8IziNdfvbeU8qx6BDxTHVt" group-title="SERBIAN -//- MONTENEGRO",SR: PRVA WORLD
+http://qqtv.nl:8080/Mike1234/Mike1234/14403
+#EXTINF:-1 tvg-id="TOTV.pl" tvg-name="SR: TOP HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAfuI7BDCZxnEqMrD83VnwOruoJClRf5IxlLA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: TOP HD
+http://qqtv.nl:8080/Mike1234/Mike1234/14408
+#EXTINF:-1 tvg-id="RideTV.us" tvg-name="SR: IDJ TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB-BzmXDSZcMV8yTrX2VQ2K7uqV1bP3nU7ufA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: IDJ TV
+http://qqtv.nl:8080/Mike1234/Mike1234/14414
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="SR: NOVI PAZAR" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCzIF_lxzWQL-9mYdQA-6vbrvXYSMAwtB8rsQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: NOVI PAZAR
+http://qqtv.nl:8080/Mike1234/Mike1234/14397
+#EXTINF:-1 tvg-id="" tvg-name="SR: RTV VOJVODINA 1" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCPvhggdt6OawldhTXwXXQANBFuw1g-Aj4s8A=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",SR: RTV VOJVODINA 1
+http://qqtv.nl:8080/Mike1234/Mike1234/14402
+#EXTINF:-1 tvg-id="" tvg-name="SLO: PLANET PLUS TV HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBDIodTRcKQSEt5uO-55dkdrK5FKiK029WB5A=s48-mo-c-c0xffffffff-rj-k-no" group-title="BULGARIA -//- SLOVENIJA",SLO: PLANET PLUS TV HD
+http://qqtv.nl:8080/Mike1234/Mike1234/19474
+#EXTINF:-1 tvg-id="Slam.nl" tvg-name="SLO: KANAL A HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mB5FssivhUqIflEXPDjFq9Mw-3MzjpiYqeT6A=s48-mo-c-c0xffffffff-rj-k-no" group-title="BULGARIA -//- SLOVENIJA",SLO: KANAL A HD
+http://qqtv.nl:8080/Mike1234/Mike1234/19481
+#EXTINF:-1 tvg-id="" tvg-name="SLO: POP BRIO" tvg-logo="" group-title="BULGARIA -//- SLOVENIJA",SLO: POP BRIO
+http://qqtv.nl:8080/Mike1234/Mike1234/19467
+#EXTINF:-1 tvg-id="" tvg-name="SLO: POP KINO" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBA3BKKTnVw6hRSIEd8hEDAy3nN17_Lxyz-nQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BULGARIA -//- SLOVENIJA",SLO: POP KINO
+http://qqtv.nl:8080/Mike1234/Mike1234/19469
+#EXTINF:-1 tvg-id="" tvg-name="SLO: POP OTO" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBA3BKKTnVw6hRSIEd8hEDAy3nN17_Lxyz-nQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BULGARIA -//- SLOVENIJA",SLO: POP OTO
+http://qqtv.nl:8080/Mike1234/Mike1234/19468
+#EXTINF:-1 tvg-id="" tvg-name="SLO: POP TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBA3BKKTnVw6hRSIEd8hEDAy3nN17_Lxyz-nQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BULGARIA -//- SLOVENIJA",SLO: POP TV
+http://qqtv.nl:8080/Mike1234/Mike1234/19470
+#EXTINF:-1 tvg-id="" tvg-name="SLO: SLO 1 HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBokeahZDRo8TsmHAG-bHIy0jB9Ke1t5Lsd6g=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BULGARIA -//- SLOVENIJA",SLO: SLO 1 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/19484
+#EXTINF:-1 tvg-id="" tvg-name="SLO: SLO 2 HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBokeahZDRo8TsmHAG-bHIy0jB9Ke1t5Lsd6g=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BULGARIA -//- SLOVENIJA",SLO: SLO 2 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/19483
+#EXTINF:-1 tvg-id="" tvg-name="SLO: SLO 3 HD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBokeahZDRo8TsmHAG-bHIy0jB9Ke1t5Lsd6g=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BULGARIA -//- SLOVENIJA",SLO: SLO 3 HD
+http://qqtv.nl:8080/Mike1234/Mike1234/19482
+#EXTINF:-1 tvg-id="" tvg-name="SLO: GOLICA" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBzIJ7IhvOuge9Cw8E4PhRmewtnu9B0wRpIBg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="BULGARIA -//- SLOVENIJA",SLO: GOLICA
+http://qqtv.nl:8080/Mike1234/Mike1234/19479
+#EXTINF:-1 tvg-id="" tvg-name="MOT: PINK M" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mD2oEbai0RytmvXPKU6ZHcCKtLeDSJeGezuTw=s48-mo-c-c0xffffffff-rj-k-no" group-title="SERBIAN -//- MONTENEGRO",MOT: PINK M
+http://qqtv.nl:8080/Mike1234/Mike1234/19449
+#EXTINF:-1 tvg-id="" tvg-name="MOT: PRVA (CG)" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBQRmrMM3N81J1RrP2WusM2J37FkA9nPk0nTw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",MOT: PRVA (CG)
+http://qqtv.nl:8080/Mike1234/Mike1234/19450
+#EXTINF:-1 tvg-id="" tvg-name="MOT: RTCG 1" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDGkw3o_8feNqqnYA9udMAWnNCfvjV87uoFig=s48-mo-c-c0xffffffff-rj-k-no" group-title="SERBIAN -//- MONTENEGRO",MOT: RTCG 1
+http://qqtv.nl:8080/Mike1234/Mike1234/19453
+#EXTINF:-1 tvg-id="" tvg-name="MOT: RTCG 2" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCxkJveE2FAK_DdYIEg7jTuWwto_Pju95C1jw=s48-mo-c-c0xffffffff-rj-k-no" group-title="SERBIAN -//- MONTENEGRO",MOT: RTCG 2
+http://qqtv.nl:8080/Mike1234/Mike1234/19452
+#EXTINF:-1 tvg-id="" tvg-name="MOT: RTCG SAT" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClrsbAQgB2G9V57d846oQYIkA03JcaSPafqA=s48-mo-c-c0xffffffff-rj-k-no" group-title="SERBIAN -//- MONTENEGRO",MOT: RTCG SAT
+http://qqtv.nl:8080/Mike1234/Mike1234/19454
+#EXTINF:-1 tvg-id="" tvg-name="MOT: VIJESTI" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDzXfOv0QdRAoO-lRS4MZMc67xdqlDaU5G7Sg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="SERBIAN -//- MONTENEGRO",MOT: VIJESTI
+http://qqtv.nl:8080/Mike1234/Mike1234/19451
